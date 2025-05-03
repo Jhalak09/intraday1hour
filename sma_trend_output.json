@@ -1,112 +1,23 @@
 {
-    "NSE_EQ|INE917I01010": {
-        "sma": 8066.61,
-        "trend": "Rising",
-        "symbol": "BAJAJ-AUTO"
-    },
-    "NSE_EQ|INE296A01024": {
-        "sma": 9062.25,
-        "trend": "Rising",
-        "symbol": "BAJFINANCE"
-    },
     "NSE_EQ|INE918I01026": {
-        "sma": 2064.22,
+        "sma": 1949.31,
         "trend": "Rising",
-        "symbol": "BAJAJFINSV"
+        "symbol": "BAJAJFINSV",
+        "upperlim": 1951.2584000000002,
+        "lowerlim": 1948.3344363636365
     },
-    "NSE_EQ|INE323A01026": {
-        "sma": 29002.73,
+    "NSE_EQ|INE095A01012": {
+        "sma": 832.81,
         "trend": "Rising",
-        "symbol": "BOSCHLTD"
-    },
-    "NSE_EQ|INE361B01024": {
-        "sma": 6040.17,
-        "trend": "Rising",
-        "symbol": "DIVISLAB"
-    },
-    "NSE_EQ|INE066A01021": {
-        "sma": 5565.65,
-        "trend": "Rising",
-        "symbol": "EICHERMOT"
-    },
-    "NSE_EQ|INE047A01021": {
-        "sma": 2733.12,
-        "trend": "Rising",
-        "symbol": "GRASIM"
-    },
-    "NSE_EQ|INE860A01027": {
-        "sma": 1566.9,
-        "trend": "Rising",
-        "symbol": "HCLTECH"
-    },
-    "NSE_EQ|INE795G01014": {
-        "sma": 712.43,
-        "trend": "Rising",
-        "symbol": "HDFCLIFE"
-    },
-    "NSE_EQ|INE176B01034": {
-        "sma": 1625.54,
-        "trend": "Rising",
-        "symbol": "HAVELLS"
-    },
-    "NSE_EQ|INE066F01020": {
-        "sma": 4614.48,
-        "trend": "Rising",
-        "symbol": "HAL"
-    },
-    "NSE_EQ|INE726G01019": {
-        "sma": 603.08,
-        "trend": "Rising",
-        "symbol": "ICICIPRULI"
-    },
-    "NSE_EQ|INE663F01024": {
-        "sma": 7049.43,
-        "trend": "Rising",
-        "symbol": "NAUKRI"
-    },
-    "NSE_EQ|INE009A01021": {
-        "sma": 1497.1,
-        "trend": "Rising",
-        "symbol": "INFY"
-    },
-    "NSE_EQ|INE758E01017": {
-        "sma": 257.5,
-        "trend": "Rising",
-        "symbol": "JIOFIN"
-    },
-    "NSE_EQ|INE214T01019": {
-        "sma": 4600.94,
-        "trend": "Rising",
-        "symbol": "LTIM"
+        "symbol": "INDUSINDBK",
+        "upperlim": 833.6430375,
+        "lowerlim": 832.3938221590909
     },
     "NSE_EQ|INE585B01010": {
-        "sma": 11831.91,
+        "sma": 12208.93,
         "trend": "Rising",
-        "symbol": "MARUTI"
-    },
-    "NSE_EQ|INE239A01024": {
-        "sma": 2389.05,
-        "trend": "Rising",
-        "symbol": "NESTLEIND"
-    },
-    "NSE_EQ|INE467B01029": {
-        "sma": 3477.89,
-        "trend": "Rising",
-        "symbol": "TCS"
-    },
-    "NSE_EQ|INE192A01025": {
-        "sma": 1161.51,
-        "trend": "Rising",
-        "symbol": "TATACONSUM"
-    },
-    "NSE_EQ|INE669C01036": {
-        "sma": 1494.4,
-        "trend": "Rising",
-        "symbol": "TECHM"
-    },
-    "NSE_EQ|INE280A01028": {
-        "sma": 3378.73,
-        "trend": "Rising",
-        "symbol": "TITAN"
+        "symbol": "MARUTI",
+        "upperlim": 12221.14075,
+        "lowerlim": 12202.827352272727
     }
 }
